@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Task app](http://127.0.0.1:8000/auth/log-in/)
 
-- 💬 Ask me about tech **HTML, CSS, Python, Django**
+- 💬 Ask me about tech **HTML, CSS, Python, JavaScript, Django**
 
 - 📫 How to reach me **emmanuelokpere@icloud.com**
 
